@@ -1,2 +1,13 @@
-# RDD-Amazon
-Relational Database Design | Amazon Sales Project
+## 📌 Project Introduction
+This project focuses on database engineering, structural normalization, and relational query optimization. Taking an intentionally flat, un-normalized Amazon sales dataset consisting of 100,000 records from Kaggle, I structurally disassembled the single-table layout into a 3rd Normal Form (3NF) relational schema. I then engineered the physical database architecture in MySQL and developed advanced analytic queries to extract complex streaming trends.
+
+## 🛠️ Toolkit
+* **DBMS:** MySQL
+* **Client:** MySQL Workbench
+* **Data Visualization:** Power BI
+* **Spreadsheets:** Excel
+
+## 📂 Project Structure
+* `README.md`: An introduction to the project.
+* `/Datasets`: Contains the raw and cleaned dataset.
+* `/Queries`: Contains .SQL files that show the process of auditing and engineering.
