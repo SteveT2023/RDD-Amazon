@@ -9,5 +9,6 @@ This project focuses on database engineering, structural normalization, and rela
 
 ## 📂 Project Structure
 * `README.md`: An introduction to the project.
+* `amazon.erd`: An entity relationship diagram of the dataset.
 * `/Datasets`: Contains the raw and cleaned dataset.
 * `/Queries`: Contains .SQL files that show the process of auditing and engineering.
