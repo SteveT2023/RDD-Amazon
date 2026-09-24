@@ -1,5 +1,5 @@
 ## 📌 Project Introduction
-This project focuses on database engineering, structural normalization, and relational query optimization. Taking an intentionally flat, un-normalized Amazon sales dataset consisting of 100,000 records from Kaggle, I structurally disassembled the single-table layout into a 3rd Normal Form (3NF) relational schema. I then engineered the physical database architecture in MySQL and developed advanced analytic queries to extract complex streaming trends.
+This project focuses on database engineering, structural normalization, and relational query optimization. Taking an intentionally flat, un-normalized Amazon sales dataset consisting of 100,000 records from Kaggle, I structurally disassembled the single-table layout into a 3rd Normal Form (3NF) relational schema in Excel. I then engineered the physical database architecture in MySQL and developed advanced analytic queries to extract complex streaming trends.
 
 ## 🛠️ Toolkit
 * **DBMS:** MySQL
